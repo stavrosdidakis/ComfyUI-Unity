@@ -104,7 +104,6 @@ ComfyUI-Unity is an interface between **ComfyUI** and **Unity**, providing a sea
 ## 📝 Requirements
 
 - **Unity 6**
-- **ComfyUI** installed and running on `127.0.0.1:8188`
 - **Input and Output folders** linked correctly in the ComfyUI directory
 
 ---
